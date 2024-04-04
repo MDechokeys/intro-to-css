@@ -1,0 +1,23 @@
+.header{
+    color: black;
+    background-color: aliceblue;
+    font-size: 30px;
+    padding-left: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.paragraph1{
+    
+    font-size: 20px;
+    margin: 1opx;
+}
+.skills{
+    font-size: 40px;
+}
+.con{
+    font-size: 20px;
+    padding: auto;
+    margin: auto;
+}
+body{
+    background-color: rgb(9, 138, 9);
+}
